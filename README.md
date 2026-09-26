@@ -2,7 +2,7 @@
   <img src="media/thumbnail.jpg" width="280" alt="Anya MD Thumbnail"/>
 </p>
 
-<h1 align="center">🌸 ANYA MD 🌸</h1>
+<h1 align="center">🌸 Feybot MD 🌸</h1>
 
 <p align="center">
   <b>Smart • Cute • Powerful WhatsApp Bot</b>
@@ -68,8 +68,8 @@ Bot ini menggunakan sistem plugin yang ringan, rapi, dan mudah dikembangkan ulan
 ## 🚀 Installation
 
 ```bash
-git clone https://github.com/himanackerman/kurumi-MD.git
-cd kurumi-MD
+git clone https://github.com/FeriEXP/Feybot
+cd Feybot
 npm install
 npm start
 ```
@@ -87,7 +87,7 @@ global.prems = []
 
 global.namebot = 'Anya MD'
 global.author = 'Hamm'
-global.wm = '❀ ᴀɴʏᴀ ᴍᴅ ❀'
+global.wm = '❀ Feri ❀'
 ```
 
 ---
