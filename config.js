@@ -6,7 +6,7 @@ global.pairingNumber = 628xcc;
 global.owner = [['628ccx', 'Hamm', true]];
 global.mods = [];
 
-global.namebot = 'Anya ᴍᴅ ʙy ʜamm';
+global.namebot = 'feybot ᴍᴅ ʙy feri';
 global.author = 'Hamm';
 
 // JANGAN DI UBAH 
